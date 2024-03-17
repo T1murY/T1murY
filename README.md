@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @T1murY
-- I’m currently working with turkcell on gpt technologies
 
 - 📫 you can reach me from yasartim25@gmail.com
 
